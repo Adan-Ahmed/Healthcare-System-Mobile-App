@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/lib/api.ts","./src/lib/auth.ts","./src/lib/types.ts","./src/pages/adminspage.tsx","./src/pages/doctorspage.tsx","./src/pages/loginpage.tsx","./src/pages/patienthistorypage.tsx","./src/pages/patientspage.tsx","./src/pages/queuepage.tsx","./src/pages/receptionistspage.tsx"],"version":"5.9.3"}

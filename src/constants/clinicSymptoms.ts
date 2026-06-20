@@ -1,0 +1,21 @@
+/** Predefined options for reception check-in (multi-select). */
+export const CLINIC_SYMPTOM_OPTIONS: string[] = [
+  'Fever',
+  'Cough',
+  'Sore throat',
+  'Runny nose',
+  'Shortness of breath',
+  'Chest pain',
+  'Headache',
+  'Nausea or vomiting',
+  'Diarrhea',
+  'Abdominal pain',
+  'Dizziness',
+  'Fatigue',
+  'Back pain',
+  'Joint pain',
+  'Rash',
+  'Urinary symptoms',
+  'Ear pain',
+  'Eye irritation',
+];

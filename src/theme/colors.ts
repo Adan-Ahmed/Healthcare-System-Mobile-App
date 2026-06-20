@@ -1,0 +1,23 @@
+/** Light blue–white palette — modern, not heavy/dark */
+export const AppColors = {
+  bgTop: '#E8F1FF',
+  bgMid: '#F0F6FF',
+  bgBottom: '#F8FBFF',
+  primary: '#2563EB',
+  primarySoft: '#3B82F6',
+  primaryMuted: '#93C5FD',
+  primaryTint: '#DBEAFE',
+  surface: '#FFFFFF',
+  surfaceElevated: '#FFFFFF',
+  text: '#0F172A',
+  textSecondary: '#475569',
+  textMuted: '#64748B',
+  border: '#E2E8F0',
+  success: '#059669',
+  warning: '#D97706',
+  error: '#DC2626',
+  cardShadow: 'rgba(37, 99, 235, 0.08)',
+  blob1: 'rgba(147, 197, 253, 0.45)',
+  blob2: 'rgba(191, 219, 254, 0.5)',
+  blob3: 'rgba(219, 234, 254, 0.65)',
+};
